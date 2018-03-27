@@ -5,10 +5,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
+	<script src="/boot/js/bootstrap.bootstrap.min.js"></script>
+	<link href="/boot/css/bootstrap-theme.min.css">
+	<script src="/boot/js/jquery-3.3.1.js"></script>
 </head>
 <body>
-	<a>更改过后的东西</a><br/>
-	<a>哈哈哈, 我成功了</a>
-	<a>bbb</a>
+	<a>one</a>
 </body>
 </html>
